@@ -1,15 +1,17 @@
 
-# SMARTLEND Analysis Project
+# LinkaLyze Analysis Project
 
 
 <p align="center">
-  <img src="[https://github.com/sujalgupta0008/smartlend/blob/main/images/SMARTLEND_Logo.jpg?raw=true](https://media.githubusercontent.com/media/sujalgupta0008/linkalyze/main/images/Linkalyze_logo.jpg)" width= "320" height="340">
+  <img src="https://media.githubusercontent.com/media/sujalgupta0008/linkalyze/main/images/Linkalyze_logo.jpg" width= "320" height="340">
 </p>
 
 
 # 📝Problem Statement
 
-Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
+In today's rapidly evolving job market, understanding employment trends, compensation structures, and hiring behaviors is critical for job seekers, employers, and labor market analysts. Despite the abundance of job postings on professional platforms like LinkedIn, the data remains underutilized for deriving actionable insights. This project aims to leverage a comprehensive dataset of over 124,000 LinkedIn job postings from 2023 and 2024—along with associated company, skill, benefit, and industry data—to uncover trends in salary distribution, remote work prevalence, in-demand skills, and company hiring patterns.
+
+The goal is to explore and model the relationships between job attributes and outcomes (such as salary or benefit offerings), identify top-paying roles and industries, and provide insights into how job offerings vary by location, company type, and employment model. These insights can inform career decisions, improve recruitment strategies, and guide policy discussions around employment and workplace equity.
 # Objectives: 
 The objective of this project is 
 1. Initial Data Exploration.
@@ -23,12 +25,6 @@ At the end we aim to genrate various meaningfull insights and conclusions from t
 
 
 # 💡 Conclusions
-This project demonstrates a complete end-to-end solution to automate the loan eligibility process based on customer demographic and financial data. By leveraging machine learning techniques, we built a predictive model capable of identifying eligible applicants in real-time with high accuracy. This system enables financial institutions to streamline decision-making, reduce manual effort, and focus on high-potential customers, ultimately enhancing operational efficiency and customer satisfaction. The approach is scalable and can be integrated seamlessly with online application platforms for real-time loan eligibility checks.
-
-# Future Model
+This project demonstrates the powerful potential of LinkedIn job posting data to generate meaningful insights into the modern employment landscape. By analyzing over 124,000 job listings from 2023 and 2024, we identified key trends in salary distribution, remote work adoption, high-demand skills, and company hiring behaviors. Our findings highlight significant variations in job offerings based on industry, location, company size, and employment model—insights that are invaluable for job seekers aiming to make informed career choices, employers refining recruitment strategies, and policymakers addressing workforce equity. Ultimately, leveraging such data-driven approaches can enhance transparency and efficiency in the labor market, driving more equitable and strategic employment outcomes for all stakeholders.
 
 
-
-<p align="center">
-  <img src="https://github.com/sujalgupta0008/smartlend/blob/main/images/Future_model.png?raw=true" width= "520" height="440">
-</p>
